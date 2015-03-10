@@ -40,8 +40,7 @@ This maven project has been possible due to [Thomas Sundberg](https://twitter.co
 (https://thomassundberg.wordpress.com/2014/05/29/cucumber-jvm-hello-world/)
 
 Should you want to, there's a tweet to thank him the effort: [tweet intent here](https://twitter
-.com/intent/tweet?text=@thomassundberg thanks for the cucumber bdd tutorial. We're using it from an
-@agilebcn meetup. Keep up the good work&url=https://thomassundberg.wordpress.com/2014/05/29/cucumber-jvm-hello-world/)
+.com/intent/tweet?text=@thomassundberg thanks for the cucumber bdd tutorial. We're using it from an @agilebcn meetup. Keep up the good work&url=https://thomassundberg.wordpress.com/2014/05/29/cucumber-jvm-hello-world/)
 
 ## Info
 
