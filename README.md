@@ -38,11 +38,13 @@ Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
 
  * I have tested this with project with the following settings:
 
+```
 Apache Maven 3.2.5 (12a6b3acb947671f09b81f49094c53f426d8cea1; 2014-12-14T18:29:23+01:00)
 Maven home: ~/Applications/maven-3.2.5
 Java version: 1.8.0_25, vendor: Oracle Corporation
 Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre
 Default locale: en_US, platform encoding: UTF-8
 OS name: "mac os x", version: "10.9.4", arch: "x86_64", family: "mac"
+```
 
  * More info about cucumber [here](https://cukes.info/)
